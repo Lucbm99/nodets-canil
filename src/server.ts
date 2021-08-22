@@ -27,7 +27,7 @@ app.use(mainRoutes);
 
 
 app.use((request, response)=>{
-    response.send("Página não encontrada!");
+    response.render('pages/404');
 });
 
 app.listen(process.env.PORT);
