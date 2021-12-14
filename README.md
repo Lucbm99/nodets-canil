@@ -31,6 +31,8 @@ Yarn: https://yarnpkg.com/
 
 ## 4 - Feita a instalação do npm e das dependências globais, é necessário digitar o comando npm run start dev, para abrir a aplicação, que estará disponível em http://localhost:3000 em seu computador. 
 
+![image](https://user-images.githubusercontent.com/45500959/145910803-00c501e2-890b-46bb-877f-8e7ad7a6a4d6.png)
+
 
 ## 📦 Status da aplicação
 
