@@ -18,7 +18,7 @@ Sublime Text: https://www.sublimetext.com/
 
 NodeJS: https://nodejs.org/en/
 
-Yarn: https://yarnpkg.com/
+Yarn: https://yarnpkg.com
 
 
 ### 🔧 Como rodar o projeto? 
