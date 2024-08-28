@@ -1,4 +1,4 @@
-# nodets-canil
+# Canil - Node.js - feito em TypeScript
 Projeto de um canil, para revisão de conceitos básicos das aulas de NodeJS com Typescript, com o professor Bonieky, da B7Web.
 
 
@@ -50,7 +50,7 @@ Yarn: https://yarnpkg.com
 Consulte o arquivo LICENSE.md, para maiores detalhes.
 
 ## ✒️ Autores
-Aplicação feito por mim - [Lucbm99](https://github.com/Lucbm99)
+Aplicação feita por mim - [Lucbm99](https://github.com/Lucbm99)
 
 
 
